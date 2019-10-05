@@ -1,6 +1,7 @@
 # Stock-analysis
 
-Analysis on green energy stocks for Steve's parents
+Analysis on green energy stocks for Steve's parents.
+
 The analysis use excel to sort through the stock database to determine total volume and calculate annual return for each stock
 
 
